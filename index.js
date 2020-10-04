@@ -3,7 +3,7 @@ const fs = require('fs');
 const db = require('./db.js');
 const roblox = require('noblox.js');
 const client = new Discord.Client();
-const token = "NzYxNDQ1ODQxNzM0NTk4Njg3.X3atsw.eUZXgZsnSLUunuD8cptIxgO4diU";
+const token = "TOKEN HERE";
 const prefix = "?";
 const commandList = [];
 
