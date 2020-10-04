@@ -1,0 +1,19 @@
+{
+  "name": "group-counter-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "author": "zachariapopcorn#8105",
+  "license": "ISC",
+  "dependencies": {
+    "@keyv/sqlite": "^2.0.2",
+    "axios": "^0.20.0",
+    "discord.js": "^12.3.1",
+    "fs": "0.0.1-security",
+    "keyv": "^4.0.3",
+    "noblox.js": "^4.7.2"
+  }
+}
